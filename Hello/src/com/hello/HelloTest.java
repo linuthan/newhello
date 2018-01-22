@@ -7,6 +7,9 @@ public class HelloTest {
 System.out.println("Hello from");
 
 System.out.println("Hello from1");
+
+System.out.println("Litha");
+System.out.println("Linu");
 //testing 
 
 }
